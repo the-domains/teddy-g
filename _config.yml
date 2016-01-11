@@ -1,7 +1,7 @@
 name: teddy g
 favicon: null
-layout_spectrum: 0.7489656677935272
-typography_spectrum: 0.860041047912091
+layout_spectrum: 0.42314113723114133
+typography_spectrum: 0.9222134817391634
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5576211225707084
-  lightness: 0.5786629875656217
-  saturation: 0.9924411934334785
-  rhythmicContrast: 0.8647108967415988
+    - '#000000'
+    - '#ffffe5'
+    - '#68685c'
+    - '#b4b5a7'
+    - '#e7855c'
+  brandStrength: 0.6739691020920873
+  lightness: 0.6278756093233824
+  saturation: 0.231804012786597
+  rhythmicContrast: 0.7882148635108024
 purpose: []
